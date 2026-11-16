@@ -1,0 +1,10 @@
+README.md
+capsule_check/__init__.py
+capsule_check/compressor.py
+capsule_check/dataset.py
+capsule_check/judge.py
+capsule_check/report.py
+demo.py
+reports/SAMPLE_REPORT_NOT_RUN.md
+task-context.json
+tests/test_capsule_check.py
